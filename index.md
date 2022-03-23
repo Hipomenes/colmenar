@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: El Colmenar
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: El Colmenares es una asociación civil sin ánimo de lucro dedicada a promover las artes, la naturaleza y los saberes vernáculos en el estado de Oaxaca, México.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# El Colmenare
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+**El Colmenares** es una asociación civil sin ánimo de lucro dedicada a promover las artes, la naturaleza y los saberes vernáculos en el estado de Oaxaca, México.
