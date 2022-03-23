@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/colmenar/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'El Colmenares'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
